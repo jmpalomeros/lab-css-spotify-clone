@@ -1,8 +1,76 @@
-/*
-Colors:
 
-Text: 1A1A1A
-Green: #00B172
-White: #FFF
 
-*/
+
+body{
+background-color:white;
+width: auto;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+
+nav {
+    width: 600px;
+  }
+  
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: black;
+  }
+
+#logoSpotify{
+    width: 150px;
+
+}
+
+#section1{
+    
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    
+   
+}
+
+h1{
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    color: white;
+    font-size: 50px;
+}
+
+#firstText{
+
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    color: white;
+    font-size: 25px;
+
+}
+
+#party{
+    width: 1250px;
+}
+
+
+
+#section3{
+    background-color: Green;
+}
+
+
+
