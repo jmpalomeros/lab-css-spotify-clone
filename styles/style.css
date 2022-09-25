@@ -104,7 +104,9 @@ h4{
     
 }
 
-
+.title{
+    color:green
+}
 
 #section2>div>div>img{
     align-items:center;
@@ -129,7 +131,7 @@ h3{
 
 }
 
-h4{
+.secondtitle{
     color: white;
 }
 
